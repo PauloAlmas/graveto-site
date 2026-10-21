@@ -1,0 +1,4 @@
+Data;Hora;Tipo;Categoria;Subcategoria;Conta;Conta de;Conta para;Moeda;Valor;Valor em euros;Nota;Detalhes;Etiquetas
+2026-10-01;;Despesa;Supermercado;;Principal;;;EUR;"32,45";;Compras da semana;;;EXEMPLO
+2026-10-02;;Receita;Salário;;Principal;;;EUR;"1500,00";;Ordenado de outubro;;;EXEMPLO
+2026-10-03;;Transferência;;;Principal;Principal;Poupança;EUR;"100,00";;Para a poupança;;;EXEMPLO
